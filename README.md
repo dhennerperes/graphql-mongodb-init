@@ -77,7 +77,10 @@ mutation {
         }
     }
 }
+```
 
+### commands mongodb
+```
 db.createUser(
 {
     user: "dhenner",
