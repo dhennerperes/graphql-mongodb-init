@@ -1,5 +1,9 @@
 # graphql-mongodb-init
 
+yarn install
+
+yarn start
+
 ### commands docker
 ```
 docker run \
